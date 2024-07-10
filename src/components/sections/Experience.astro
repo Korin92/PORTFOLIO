@@ -3,7 +3,7 @@ import Section from '@/components/Section.astro'
 import { work } from '@cv'
 ---
 
-<Section title="Experience">
+<Section title="Experiencia laboral">
   <ul>
     {
       work.map(
@@ -12,7 +12,6 @@ import { work } from '@cv'
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
 
-          // Dividir el summary en párrafos
           const paragraphs = summary.split('\n\n')
 
           return (

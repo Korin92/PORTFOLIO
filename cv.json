@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Carmen Del Amor Herrera",
+    "label": "Frontend Developer con pasión por la innovación y el rendimiento",
+    "image": "https://media.licdn.com/dms/image/C5603AQG5rj3ILc-cMg/profile-displayphoto-shrink_800_800/0/1516848479776?e=1726099200&v=beta&t=Q-vwySJYG4gbhJFpZ7D45f970e8BEAJSDEbyq1FICnU",
+    "email": "carmene8992@gmail.com",
+    "phone": "+34 666316573",
+    "summary": "Desarrolladora Frontend con experiencia en\ndiseño web responsivo, creación de interfaces\ninteractivas y optimización de rendimiento.\nExperta en HTML5, CSS, Typescript, librerías\ncomo ReactJS y frameworks como Nextjs. Me\ncaracterizo\npor mi facilidad para el trabajo en equipo y mi\nentusiasmo por aprender y desarrollar mis\nhabilidades, con una gran capacidad para\nadaptarme a todo tipo de entornos y sacar\nsiempre lo mejor de mí.",
+    "location": {
+      "address": "",
+      "postalCode": "30120",
+      "city": "Murcia",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Carmen Del Amor Herrera",
+        "url": "https://www.linkedin.com/in/carmen-del-amor-herrera/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Korin92",
+        "url": "https://github.com/Korin92"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Visualtis",
+      "position": "Software Developer",
+      "startDate": "2022-07-04",
+      "endDate": null,
+      "summary": "En mi rol como Software Developer en Visualtis, me he especializado en el desarrollo Frontend con un enfoque en UX/UI.\n\nHe trabajado con ReactJS y Typescript para crear interfaces dinámicas, utilizando MaterialUI, SCSS y CSS para el diseño y estilización. Herramientas como Prettier y ESLint han asegurado la calidad del código.\n\nAdemás, he gestionado proyectos con Jira y he trabajado en el backend con Golang y Postgres. La integración de NextJS ha sido clave para desarrollar aplicaciones web rápidas, y Git ha sido esencial para el control de versiones.\n\nTambién he trabajado con React Native para la creación de aplicaciones híbridas, lo que me ha permitido desarrollar soluciones multiplataforma eficientes.\n\nEn resumen, mi experiencia en Visualtis ha fortalecido mis habilidades en Frontend, UX y UI, contribuyendo significativamente a la creación de productos de alta calidad y mejorando la experiencia del usuario.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "DisplayNote",
+      "position": "Frontend Developer Intern",
+      "startDate": "2021-11-25",
+      "endDate": "2022-06-21",
+      "summary": "Durante mi período como Frontend Developer Intern en DisplayNote, profundicé mis conocimientos y habilidades en el desarrollo Frontend, con un enfoque notable en UX y UI. Participé activamente en el desarrollo y mejora de interfaces de usuario, utilizando una variedad de lenguajes y herramientas esenciales.\n\nTrabajé extensivamente con ReactJS y Typescript para desarrollar aplicaciones web dinámicas y altamente funcionales. Utilicé styled-components, SCSS y CSS para diseñar y estilizar componentes con un alto nivel de personalización y precisión, asegurando una experiencia de usuario atractiva y coherente.\n\nImplementé herramientas como Prettier y ESLint para mantener la calidad y la legibilidad del código, facilitando la colaboración y el mantenimiento del mismo. Utilicé Git para el control de versiones, asegurando un flujo de trabajo ordenado y eficiente en equipo.\n\nAdquirí experiencia con Redux para la gestión del estado de las aplicaciones, lo que permitió una mayor escalabilidad y mantenibilidad de los proyectos. Además, trabajé con **Electron** para el desarrollo de aplicaciones de escritorio, ampliando así el alcance y la funcionalidad de nuestras soluciones.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "UCAM Universidad Católica San Antonio de Murcia",
+    "url": "https://www.fpsanantonio.com/",
+    "area": "Técnico Superior en Desarrollo de Aplicaciones Web",
+    "studyType": "Formación Profesional Superior",
+    "startDate": "2020-09-20",
+    "endDate": "2022-06-21",
+    "score": "5.0",
+    "courses": [
+      "Desarrollo de Interfaces",
+      "Programación de Servicios y Procesos",
+      "Sistemas de Gestión Empresarial",
+      "Desarrollo Web en Entorno Cliente",
+      "Desarrollo Web en Entorno Servidor",
+      "Despliegue de Aplicaciones Web",
+      "Diseño de Interfaces Web",
+      "Proyecto de Desarrollo de Aplicaciones Web"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Mobile", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium level"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "movie-maniac",
+      "isActive": true,
+      "description": "Aplicación web desarrollada como proyecto final para el ciclo formativo de grado superior. Este proyecto está alojado en GitHub, ofreciendo una solución integral para los amantes del cine que desean gestionar y descubrir información detallada sobre sus películas favoritas.",
+      "highlights": [
+        "Desarrollado con ReactJS",
+        "Integración de la API de The Movie Database",
+        "Diseño responsive y accesible"
+      ],
+      "url": "https://637cad5b1156780821586be1--endearing-fenglisu-57a55a.netlify.app/"
+    }
+  ]
+}
