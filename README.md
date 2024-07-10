@@ -1,111 +1,55 @@
-# Astro Starter Kit: Basics
+### README.md para Portfolio Minimalista
 
-```sh
-npm create astro@latest -- --template basics
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+# Portfolio Minimalista
 
 
+## Descripción
 
-<div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
-<h2>
-    <em>Résumé</em> minimalista maquetado para web y pdf
-</h2>
-<p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
+Este proyecto es un **portfolio minimalista** para web que permite a los usuarios visualizar y descargar su CV en formato PDF. El contenido del CV se basa en un esquema JSON de [jsonresume.org](https://jsonresume.org), lo que facilita la modificación del contenido simplemente actualizando el archivo `cv.json`.
 
+## Características
 
-<p>
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+- **Diseño Minimalista**: Un diseño limpio y moderno que pone el foco en el contenido.
+- **Descarga en PDF**: Los usuarios pueden descargar su CV en formato PDF.
+- **Fácil Personalización**: Modifica el contenido del CV actualizando el archivo `cv.json`.
+- **Responsive**: Compatible con dispositivos móviles y de escritorio.
 
-</p>
+## Instalación
 
-</div>
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/Korin92/PORTFOLIO.git
+    ```
+2. Instala las dependencias:
+    ```bash
+    pnpm install
+    ```
+3. Inicia el servidor de desarrollo:
+    ```bash
+    pnpm run dev
+    ```
 
-<div align="center">
-    <a href="#🚀-empezar">
-        Empezar
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-comandos">
-        Comandos
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
-        Licencia
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
+## Uso
 
-</div>
-
-<p></p>
-
-<div align="center">
-
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
-
-</div>
-
-<img src="portada.png"></img>
-
-## 🛠️ Stack
-
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
+1. Abre el archivo `cv.json` en tu editor de texto favorito.
+2. Actualiza la información del CV según tus necesidades.
+3. Guarda los cambios y recarga la página web para ver las actualizaciones reflejadas.
 
 
-## 🚀 Empezar
+## Contribución
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
+¡Las contribuciones son bienvenidas! Por favor, sigue los siguientes pasos para contribuir:
 
-
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
-
-```bash
-# Activa pnpm en MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
-
-# Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
-```
-
-### 2. Añade tu contenido:
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
-### 3. Lanza el servidor de desarrollo:
-
-```bash
-# Disfruta del resultado
-pnpm dev
-```
-
-
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
-
-
-## 🧞 Comandos
-
-|     | Comando          | Acción                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
-
-
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
+3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
+4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
+5. Abre un Pull Request.
 
 ## 🔑 Licencia
 
 [MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
+
+---
+
+¡Gracias por visitar mi proyecto! Si te gusta, no olvides darle una estrella en GitHub ⭐.
